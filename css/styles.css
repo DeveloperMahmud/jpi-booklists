@@ -415,7 +415,12 @@ input[type='checkbox'] {
 	opacity: 1;
 }
 
-
+table > thead >tr {
+	background-color: #330000;
+}
+table > tbody >tr >td {
+	text-align: start;
+}
 /*************************/
 /*     Media Queries     */
 /*************************/	
